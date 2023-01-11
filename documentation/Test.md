@@ -12,6 +12,7 @@ class Animal{
 
 class Dog{
     +bark()
+    +eat()
 }
 
 Animal <|-- Dog
